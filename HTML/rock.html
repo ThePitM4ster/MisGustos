@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Mi Estilos Musicales</title>
+	<link rel="stylesheet" type="text/css" href="../CSS/index.css">
+</head>
+<body>
+		<script src="./JAVAS/codigoFormulario.js"></script>
+	<div id="formularioR" class="pop">
+		<div class="pop2">
+		
+			<h3>¿Están bien los datos?</h3>		
+
+			<a>Nombre:</a> <br>
+			<a id="name"></a>	<br>
+			<a>Mensaje:</a> <br>
+			<a id="text"></a> <br> <br>
+			<input onclick="formulario2()" value="ENVIAR" type="submit" id="confenvio" name="">
+			<input onclick="formulario2()" value="CANCELAR"type="submit" id="confenvio" name="">
+		
+		</div>
+	</div>
+
+	<header>
+		<div class="header"><h1 class="header">Mis estilos musicales</h1></div>
+		<div title="fotoperfil" class="perfil"><a><img class="fotoperfil" src="../IMGS/fotoperfil.PNG"></a></div>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="../index.html">INICIO</a></li>
+			<li><a href="pop.html">POP</a></li>
+			<li><a href="rap.html">RAP</a></li>
+			<li><a href="trap.html">TRAP</a></li>
+			<li><a href="hiphop.html">HIPHOP</a></li>
+		</ul>	
+	</nav>
+	<div class="contenedor">
+		<section>
+			<article  class="imagen"><img width="320" class="foto" src="../IMGS/rock1.jpg">
+				<audio controls>
+  				<source src="../MEDIA/rock1.mp3" type="audio/mpeg">
+				</audio>
+				<video width="320"  controls>
+  				<source src="../MEDIA/rock2.mp4" type="video/mp4">
+				</video>
+			</article>
+			<article class="info"><h1>ROCK</h1>
+				<p>Según Wikipedia,El rock es un término amplio que agrupa una variedad de géneros de música popular originados como rock and roll a principios de la década de 1950 en los Estados Unidos y que evolucionó en un gran rango de diferentes estilos en los 60, particularmente en Reino Unido y los Estados Unidos.1​2​ Tiene sus raíces en el rock and roll de los 40 y 50, proveniente de la combinación de géneros anteriores como el blues, rhythm and blues y el country.</p>
+				<p>Uno de los grandes representantes de este género es el grupo AC/DC con piezas como "Black in Black" o "Highway to Hell"</p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/pAgnJDJN4VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</article>
+		</section>
+			<aside>
+		<ul class="aside">
+			<li class="aside"><a href="../index.html">INICIO</a></li>
+			<li class="aside"><a href="./pop.html">POP</a></li>
+			<li class="aside"><a href="rap.html">RAP</a></li>
+			<li class="aside"><a href="trap.html">TRAP</a></li>
+			<li class="aside"><a href="hiphop.html">HIPHOP</a></li>
+		</ul>
+	</aside>
+	</div>
+	<footer>
+		<h1>¿Quieres mandar tu opinión?</h1>
+		<div class="footer">		<table>
+			<tr>
+				<td><h2>Tu nombre:</h2></td>
+				<td><input id="nombre" type="text" name="alias" placeholder="Tu nombre"></td>
+			</tr>
+			<tr>
+				<td><h2>Tu mensaje:</h2></td>
+				<td><textarea id="textarea" rows="4" cols="50" name="texto" placeholder="¿En qué piensas?"></textarea></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><input onclick="formulario()" type="submit" id="enviar" name="" value="Envialo!"></td>
+			</tr>
+		</table></div>
+	</footer>
+</body>
+</html>

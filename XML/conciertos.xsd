@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="conciertos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="concierto"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="concierto">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Nombre"/>
+                <xs:element ref="Año"/>
+                <xs:element ref="Aforo"/>
+                <xs:element ref="Lugar"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Nombre" type="xs:string"/>
+    <xs:element name="Año" type="xs:integer"/>
+    <xs:element name="Aforo" type="xs:decimal"/>
+    <xs:element name="Lugar" type="xs:string"/>
+</xs:schema>

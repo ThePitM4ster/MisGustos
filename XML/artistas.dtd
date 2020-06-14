@@ -1,0 +1,25 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT artistas (artista)+>
+<!ATTLIST artistas
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT artista (Nombre,Alias,altura,CancionFav)>
+<!ATTLIST artista
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Nombre (#PCDATA)>
+<!ATTLIST Nombre
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Alias (#PCDATA)>
+<!ATTLIST Alias
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT altura (#PCDATA)>
+<!ATTLIST altura
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CancionFav (#PCDATA)>
+<!ATTLIST CancionFav
+  xmlns CDATA #FIXED ''>

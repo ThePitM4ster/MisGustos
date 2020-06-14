@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="artistas.xsl"?>
+<!DOCTYPE artistas SYSTEM "artistas.dtd">
+<artistas>
+    <artista>
+        <Nombre>Abel Makkonen Tesfaye</Nombre>
+        <Alias>The Weeknd</Alias>
+        <altura>1,73</altura>
+        <CancionFav>The Hills</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Selena Gomez</Nombre>
+        <Alias>Selena Gomez</Alias>
+        <altura>1,65</altura>
+        <CancionFav>Lose you to love me</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Ariana Pequeña</Nombre>
+        <Alias>Ariana Pequeña</Alias>
+        <altura>1,53</altura>
+        <CancionFav>7 rings</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Isabella Khair Hadid</Nombre>
+        <Alias>Bella Hadid</Alias>
+        <altura>1,75</altura>
+        <CancionFav>lveforeyou</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Aubrey Drake Graham</Nombre>
+        <Alias>Drake</Alias>
+        <altura>1,82</altura>
+        <CancionFav>God´s Plan</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Christopher Maurice Brown</Nombre>
+        <Alias>Chris Brown</Alias>
+        <altura>1,85</altura>
+        <CancionFav>Heat</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Abel Makkonen Tesfaye</Nombre>
+        <Alias>The Weeknd</Alias>
+        <altura>1,73</altura>
+        <CancionFav>The Hills</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Selena Gomez</Nombre>
+        <Alias>Selena Gomez</Alias>
+        <altura>1,65</altura>
+        <CancionFav>Lose you to love me</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Ariana Pequeña</Nombre>
+        <Alias>Ariana Pequeña</Alias>
+        <altura>1,53</altura>
+        <CancionFav>7 rings</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Isabella Khair Hadid</Nombre>
+        <Alias>Bella Hadid</Alias>
+        <altura>1,75</altura>
+        <CancionFav>lveforeyou</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Aubrey Drake Graham</Nombre>
+        <Alias>Drake</Alias>
+        <altura>1,82</altura>
+        <CancionFav>God´s Plan</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Christopher Maurice Brown</Nombre>
+        <Alias>Chris Brown</Alias>
+        <altura>1,85</altura>
+        <CancionFav>Heat</CancionFav>
+    </artista>    
+    <artista>
+        <Nombre>Abel Makkonen Tesfaye</Nombre>
+        <Alias>The Weeknd</Alias>
+        <altura>1,73</altura>
+        <CancionFav>The Hills</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Selena Gomez</Nombre>
+        <Alias>Selena Gomez</Alias>
+        <altura>1,65</altura>
+        <CancionFav>Lose you to love me</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Ariana Pequeña</Nombre>
+        <Alias>Ariana Pequeña</Alias>
+        <altura>1,53</altura>
+        <CancionFav>7 rings</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Isabella Khair Hadid</Nombre>
+        <Alias>Bella Hadid</Alias>
+        <altura>1,75</altura>
+        <CancionFav>lveforeyou</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Aubrey Drake Graham</Nombre>
+        <Alias>Drake</Alias>
+        <altura>1,82</altura>
+        <CancionFav>God´s Plan</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Christopher Maurice Brown</Nombre>
+        <Alias>Chris Brown</Alias>
+        <altura>1,85</altura>
+        <CancionFav>Heat</CancionFav>
+    </artista>    
+    <artista>
+        <Nombre>Abel Makkonen Tesfaye</Nombre>
+        <Alias>The Weeknd</Alias>
+        <altura>1,73</altura>
+        <CancionFav>The Hills</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Selena Gomez</Nombre>
+        <Alias>Selena Gomez</Alias>
+        <altura>1,65</altura>
+        <CancionFav>Lose you to love me</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Ariana Pequeña</Nombre>
+        <Alias>Ariana Pequeña</Alias>
+        <altura>1,53</altura>
+        <CancionFav>7 rings</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Isabella Khair Hadid</Nombre>
+        <Alias>Bella Hadid</Alias>
+        <altura>1,75</altura>
+        <CancionFav>lveforeyou</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Aubrey Drake Graham</Nombre>
+        <Alias>Drake</Alias>
+        <altura>1,82</altura>
+        <CancionFav>God´s Plan</CancionFav>
+    </artista>
+    <artista>
+        <Nombre>Christopher Maurice Brown</Nombre>
+        <Alias>Chris Brown</Alias>
+        <altura>1,85</altura>
+        <CancionFav>Heat</CancionFav>
+    </artista>        
+</artistas>
