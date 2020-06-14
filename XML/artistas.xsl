@@ -15,11 +15,11 @@
                 </header>
                 <nav>
                     <ul>
-                        <li><a href="./HTML/pop.html">POP</a></li>
-                        <li><a href="./HTML/rock.html">ROCK</a></li>
-                        <li><a href="./HTML/rap.html">RAP</a></li>
-                        <li><a href="./HTML/trap.html">TRAP</a></li>
-                        <li><a href="./HTML/hiphop.html">HIPHOP</a></li>
+                        <li><a href="../HTML/pop.html">POP</a></li>
+                        <li><a href="../HTML/rock.html">ROCK</a></li>
+                        <li><a href="../HTML/rap.html">RAP</a></li>
+                        <li><a href="../HTML/trap.html">TRAP</a></li>
+                        <li><a href="../HTML/hiphop.html">HIPHOP</a></li>
                     </ul>	
                 </nav>
                 <div class="contenedor">
@@ -48,11 +48,11 @@
                     </section>
                     <aside>
                         <ul class="aside">
-                            <li class="aside"><a href="./HTML/pop.html">POP</a></li>
-                            <li class="aside"><a href="./HTML/rock.html">ROCK</a></li>
-                            <li class="aside"><a href="">RAP</a></li>
-                            <li class="aside"><a href="">TRAP</a></li>
-                            <li class="aside"><a href="">HIPHOP</a></li>
+                            <li class="aside"><a href="../HTML/pop.html">POP</a></li>
+                            <li class="aside"><a href="../HTML/rock.html">ROCK</a></li>
+                            <li class="aside"><a href="../HTML/rap.html">RAP</a></li>
+                            <li class="aside"><a href="../HTML/rap.html">TRAP</a></li>
+                            <li class="aside"><a href="../HTML/hiphop.html">HIPHOP</a></li>
                         </ul>
                     </aside>
                 </div>
