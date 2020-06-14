@@ -5,7 +5,7 @@
         <html>
             <head>
                 <title>Mi Estilos Musicales</title>
-                <link rel="stylesheet" type="text/css" href="../CSS/xsl.css"/>
+                <link rel="stylesheet" type="text/css" href="../CSS/xml.css"/>
             </head>
             <body>
                 <script src="../JAVAS/codigoFormulario.js"></script>
