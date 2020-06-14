@@ -5,26 +5,26 @@
         <html>
             <head>
                 <title>Mi Estilos Musicales</title>
-                <link rel="stylesheet" type="text/css" href="./CSS/index.css"/>
+                <link rel="stylesheet" type="text/css" href="../CSS/index.css"/>
             </head>
             <body>
-                <script src="./JAVAS/codigoFormulario.js"></script>
+                <script src="../JAVAS/codigoFormulario.js"></script>
                 <header>
                     <div class="header"><h1 class="header">Mis estilos musicales</h1></div>
-                    <div title="Sobre Mí" class="perfil"><a href=""><img class="fotoperfil" src="./IMGS/fotoperfil.PNG"/></a></div>
+                    <div title="Sobre Mí" class="perfil"><a href=""><img class="fotoperfil" src="../IMGS/fotoperfil.PNG"/></a></div>
                 </header>
                 <nav>
                     <ul>
-                        <li><a href="./HTML/pop.html">POP</a></li>
-                        <li><a href="./HTML/rock.html">ROCK</a></li>
-                        <li><a href="">RAP</a></li>
-                        <li><a href="">TRAP</a></li>
-                        <li><a href="">HIPHOP</a></li>
+                        <li><a href="../HTML/pop.html">POP</a></li>
+                        <li><a href="../HTML/rock.html">ROCK</a></li>
+                        <li><a href="../HTML/rap.html">RAP</a></li>
+                        <li><a href="../HTML/trap.html">TRAP</a></li>
+                        <li><a href="../HTML/hiphop.html">HIPHOP</a></li>
                     </ul>	
                 </nav>
                 <div class="contenedor">
                     <section>
-                        <article class="imagen"><img class="foto" src="./IMGS/concierto2.jpg"/>
+                        <article class="imagen"><img class="foto" src="../IMGS/concierto2.jpg"/>
                         </article>
                         <article><h1>Conciertos</h1>
                             <table border="1">
@@ -48,11 +48,11 @@
                     </section>
                     <aside>
                         <ul class="aside">
-                            <li class="aside"><a href="./HTML/pop.html">POP</a></li>
-                            <li class="aside"><a href="./HTML/rock.html">ROCK</a></li>
-                            <li class="aside"><a href="">RAP</a></li>
-                            <li class="aside"><a href="">TRAP</a></li>
-                            <li class="aside"><a href="">HIPHOP</a></li>
+                            <li class="aside"><a href="../HTML/pop.html">POP</a></li>
+                            <li class="aside"><a href="../HTML/rock.html">ROCK</a></li>
+                            <li class="aside"><a href="../HTML/rap.html">RAP</a></li>
+                            <li class="aside"><a href="../HTML/trap.html">TRAP</a></li>
+                            <li class="aside"><a href="../HTML/hiphop.html">HIPHOP</a></li>
                         </ul>
                     </aside>
                 </div>
